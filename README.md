@@ -1,4 +1,4 @@
-# Headgears
+# Headgears Project Demonstration Using basic JavaScript Function
 
 This project is a basic demonstration of using basic JavaScript functions in a website. For this demonstration, this website is used to demonstrate deploying to GCP App Engine.
 
